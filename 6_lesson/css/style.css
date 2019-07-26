@@ -1,17 +1,13 @@
 body {
-  width: 1200px;
-  height: 675px;
   background-color: #f6f6f6;
+  margin:auto;
 }
 .box {
-  vertical-align: middle;
-  display: inline-block;
   width: 1010px;
-  height: 503px;
   border: 1px solid #d7d7d7;
   background-color: #ffffff;
   background: white;
-  margin: 100px 350px;
+  margin: 0 auto;
 }
 .picters {
   display: inline-block;

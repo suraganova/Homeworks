@@ -22,14 +22,13 @@ body {
 
 .brand {
     color: #95989a;
-    font-family: "Helvetica Neue";
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
 }
 
 .social a {
-    text-decoration: none;
+    text-decoration: none;  
     margin-right: 20px;
 }
 
@@ -161,11 +160,13 @@ body {
     margin-bottom: 35px;
     font-size: 24px;
     font-weight: 700;
+
 }
 
 .footer a {
     display: block;
     color: #ffffff;
+    text-decoration-line: none;
 }
 
 .footer p {

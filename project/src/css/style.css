@@ -1,0 +1,54 @@
+body {
+    background-image: url(http://beloweb.ru/wp-content/uploads/2014/05/1234567105.jpg);
+    font-family: sans-serif;
+}
+.container {
+  background: #d1ccfb;  
+  width: 1170px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px ;
+  }
+.navbar-block {
+  display: flex;
+  justify-content: space-between;
+}  
+.text {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.title {
+  display: flex;
+  font-size: 34px;
+  padding: 10px 10px;
+  
+}
+.name {
+  display: flex;
+  justify-content: flex-end;
+  color: #333333;
+  font-size: 28px;
+  font-weight: 800;
+  text-decoration: none;
+  padding: 0px 10px;
+  
+  
+}
+img {
+  padding: 30px 30px;
+}
+.lesson-1 {
+  background: #d1ccfb;  
+  width: 1170px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px ;
+}
+.address {
+  font-size: 34px;
+  padding: 30px 30px;
+}
+.text-2 {
+  font-size: 34px;
+  padding: 50px;  
+}
